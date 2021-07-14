@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *Python, Machine learning, Tensor flow, Data science, HTML & CSS*
 
-- 👨‍💻 All of my projects are available at [nadiyans.github.io](nadiyans.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/nadiyans](https://github.com/nadiyans)
 
 
 <h3 align="left">Languages and Tools:</h3>
